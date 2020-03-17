@@ -24,7 +24,7 @@ Letra C. Uma das maneiras de avaliar seu desempenho seria através de sua capaci
 
 3. Diz-se que um programa de computador aprende com a experiência **E** com relação a alguma tarefa **T** e alguma medida de desempenho **D**, se seu desempenho em **T**, medido por **D**, melhorar com a experiência **E**. Suponha que você esteja trabalhando numa agência meteorológica e deseje treinar um algoritmo de aprendizado com dados climáticos históricos para que este preveja o tempo. Neste caso, o que seriam **T** e **E**?  
 
-**T** (tarefa) – previsão climática dentro de um período de tempo
+**T** (tarefa) – previsão climática dentro de um período de tempo <br/>
 **E** (experiência) – resultante do que foi previsto e do que realmente aconteceu
 
 4. Suponha que você esteja trabalhando em uma agência meteorológica com previsão do tempo, e que a agência faça uma das três previsões para o clima de cada dia: **ensolarado**, **nublado** ou **chuvoso**. Você deseja usar um algoritmo de aprendizado para prever o tempo de amanhã. Você trataria essa tarefa como uma tarefa de **classificação** ou de **regressão**? Justifique sua escolha.  
@@ -51,7 +51,7 @@ https://mlc.committees.comsoc.org/research-library/
 
 	a. Alocação de recursos em redes móveis (e.g., LTE, 5G-NR, etc.)
 	
-	Título: Energy Efficiency in Reinforcement Learning for Wireless Sensor Networks
+	Título: Energy Efficiency in Reinforcement Learning for Wireless Sensor Networks <br/>
 	Descrição: <br/>
 	Aprendizado: Reforço <br/>
 	Algoritmo: Markov Decision Processes (MDP) <br/>
@@ -64,44 +64,42 @@ https://mlc.committees.comsoc.org/research-library/
 
 	c. Projeto e otimização de esquemas de modulação e codificação 
 
-	Título: A Deep Learning Wireless Transceiver with Fully Learned Modulation and 				Synchronization
-	Aprendizado: Deep Neural Network (DNN)
-	Algoritmo: Autoencoders
+	Título: A Deep Learning Wireless Transceiver with Fully Learned Modulation and Synchronization <br/>
+	Aprendizado: Deep Neural Network (DNN) <br/>
+	Algoritmo: Autoencoders <br/>
 
 	d. Sensoriamento espectral
 
 	Título: Deep Learning for Spectrum Sensing
-	Aprendizado: Reforço
-	Algoritmo: Deep Learning - Convolutional Long short-term Deep Neural
-	Network (CLDNN)
+	Aprendizado: Reforço <br/>
+	Algoritmo: Deep Learning - Convolutional Long short-term Deep Neural Network (CLDNN) <br/>
 
 	e. Posicionamento e localização em ambientes indoor Roteamento de redes
 
-	Título: Analysis and Visualization of Deep Neural Networks in Device-Free
-Wi-Fi Indoor Localization
-	Aprendizado: Deep Neural Network (DNN)
-	Algoritmo: Naive Bayes classifier
+	Título: Analysis and Visualization of Deep Neural Networks in Device-Free Wi-Fi Indoor Localization <br/>
+	Aprendizado: Deep Neural Network (DNN) <br/>
+	Algoritmo: Naive Bayes classifier <br/>
 
 	f. Detecção e estimação de canal em sistemas de transmissão ópticos
 
-	Título: Learning-based network path planning for traffic engineering
-	Aprendizado: Deep Learning
-	Algoritmo: Natural Language Processing (NPL)
+	Título: Learning-based network path planning for traffic engineering <br/>
+	Aprendizado: Deep Learning <br/>
+	Algoritmo: Natural Language Processing (NPL) <br/>
 
 	g. Pré-distorção digital de não-linearidades de front-ends de RF
 
-	Título: An Overview on Application of Machine Learning Techniques in Optical Networks
-	Aprendizado: Supervisionado
-	Algoritmo: Traffic flow classification and Path computation
+	Título: An Overview on Application of Machine Learning Techniques in Optical Networks <br/>
+	Aprendizado: Supervisionado <br/>
+	Algoritmo: Traffic flow classification and Path computation <br/>
 
 	h. Segurança e robustez em redes de comunicação 
 	
-	Título:
-	Aprendizado:
-	Algoritmo: 
+	Título: <br/>
+	Aprendizado: <br/>
+	Algoritmo:  <br/>
 
 	i. Segurança e robustez em redes de comunicação
 
-	Título: Performance of Statistical and Machine Learning Techniques for Physical Layer Authentication
-	Aprendizado: Supervisionado
-	Algoritmo: k-nearest neighbors (k-NN) e SVM
+	Título: Performance of Statistical and Machine Learning Techniques for Physical Layer Authentication <br/>
+	Aprendizado: Supervisionado <br/>
+	Algoritmo: k-nearest neighbors (k-NN) e SVM <br/>
