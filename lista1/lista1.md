@@ -104,7 +104,7 @@ Utilize o link abaixo como ponto de partida para sua pesquisa: <br/>[https://mlc
     
     i. Segurança e robustez em redes de comunicação <br/>
     
-    Título: [Performance of Statistical and Machine Learning Techniques for Physical Layer Authentication](https://arxiv.org/pdf/2001.06238.pdf)
+    Título: [Performance of Statistical and Machine Learning Techniques for Physical Layer Authentication](https://arxiv.org/pdf/2001.06238.pdf) <br/>
     Descrição: Avaliação de desempenho de técnicas de autenticação na camada física considerando métodos de algoritmos de critério estatístico e machine learning <br/>
     Aprendizado: Supervisionado <br/>
     Algoritmo: k-nearest neighbors (k-NN) e SVM <br/>
