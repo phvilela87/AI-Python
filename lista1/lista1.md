@@ -90,7 +90,7 @@ Utilize o link abaixo como ponto de partida para sua pesquisa: <br/>[https://mlc
     
     g. Pré-distorção digital de não-linearidades de front-ends de RF <br/>
     
-    Título: [An Overview on Application of Machine Learning Techniques in Optical Networks](https://www.researchgate.net/publication/328821936_An_Overview_on_Application_of_Machine_Learning_Techniques_in_Optical_Networks) <br/>  
+    Título: [An Overview on Application of Machine Learning Techniques in Optical Networks](https://www.researchgate.net/publication/328821936_An_Overview_on_Application_of_Machine_Learning_Techniques_in_Optical_Networks) <br/>
     Descrição: Overview de uma aplicação utilizando machine learning para comunicações óticas <br/>
     Aprendizado: Supervisionado <br/>
     Algoritmo: Traffic flow classification and Path computatio <br/>  
