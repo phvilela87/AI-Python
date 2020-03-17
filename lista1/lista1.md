@@ -70,7 +70,7 @@ https://mlc.committees.comsoc.org/research-library/
 
 	d. Sensoriamento espectral
 
-	Título: Deep Learning for Spectrum Sensing
+	Título: Deep Learning for Spectrum Sensing <br/>
 	Aprendizado: Reforço <br/>
 	Algoritmo: Deep Learning - Convolutional Long short-term Deep Neural Network (CLDNN) <br/>
 
