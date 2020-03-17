@@ -15,10 +15,10 @@
 
 3. Diz-se que um programa de computador aprende com a experiência **E** com relação a alguma tarefa **T** e alguma medida de desempenho **D**, se seu desempenho em **T**, medido por **D**, melhorar com a experiência **E**. Suponha que um algoritmo de aprendizado seja alimentado com muitos dados climáticos históricos, e aprenda a prever o tempo. Qual seria uma escolha razoável para **D**?
 
-	a. A probabilidade de prever corretamente o tempo de uma data futura;
-	b. A tarefa de previsão do tempo;
-	c. O processo do algoritmo que examina uma grande quantidade de dados climáticos históricos;
-	d. Nenhuma das alternativas anteriores.  
+	a. A probabilidade de prever corretamente o tempo de uma data futura; <br/>
+	b. A tarefa de previsão do tempo; <br/>
+	c. O processo do algoritmo que examina uma grande quantidade de dados climáticos históricos; <br/>
+	d. Nenhuma das alternativas anteriores. <br/>
 
 Letra C. Uma das maneiras de avaliar seu desempenho seria através de sua capacidade de análise de dados históricos.  
 
@@ -52,15 +52,15 @@ https://mlc.committees.comsoc.org/research-library/
 	a. Alocação de recursos em redes móveis (e.g., LTE, 5G-NR, etc.)
 	
 	Título: Energy Efficiency in Reinforcement Learning for Wireless Sensor Networks
-	Descrição:
-	Aprendizado: Reforço
-	Algoritmo: Markov Decision Processes (MDP)
+	Descrição: <br/>
+	Aprendizado: Reforço <br/>
+	Algoritmo: Markov Decision Processes (MDP) <br/>
 
 	b. Mitigação de colisões em redes sem-fio e móveis
 
-	Título: Deep Learning-Based Spectrum Prediction Collision Avoidance for Hybrid Wireless Environments
-	Aprendizado: Deep Learning
-	Algoritmo: Convolutional Neural Network (CNN)
+	Título: Deep Learning-Based Spectrum Prediction Collision Avoidance for Hybrid Wireless Environments <br/>
+	Aprendizado: Deep Learning <br/>
+	Algoritmo: Convolutional Neural Network (CNN) <br/>
 
 	c. Projeto e otimização de esquemas de modulação e codificação 
 
