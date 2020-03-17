@@ -4,13 +4,13 @@
 
 1. Defina com suas próprias palavras:
 
-	a. Inteligência
+	a. Inteligência <br/>
 	É a faculdade de conhecer, compreender e aprender.
 	
-	b. Inteligência artificial
+	b. Inteligência artificial <br/>
 	Inteligência Artificial é um ramo da ciência da computação que se propõe a 		elaborar dispositivos que simulem a capacidade humana de raciocinar, perceber, tomar decisões e resolver problemas.
 
-	c. Aprendizado de máquina  
+	c. Aprendizado de máquina <br/>
 	É a habilidade de um sistema computacional de aprender sem a necessidade de ter sido previamente programado.
 
 3. Diz-se que um programa de computador aprende com a experiência **E** com relação a alguma tarefa **T** e alguma medida de desempenho **D**, se seu desempenho em **T**, medido por **D**, melhorar com a experiência **E**. Suponha que um algoritmo de aprendizado seja alimentado com muitos dados climáticos históricos, e aprenda a prever o tempo. Qual seria uma escolha razoável para **D**?
