@@ -78,13 +78,12 @@ Utilize o link abaixo como ponto de partida para sua pesquisa: <br/>[https://mlc
     
     Título: [Analysis and Visualization of Deep Neural Networks in Device-Free Wi-Fi Indoor Localization](https://arxiv.org/pdf/1904.10154.pdf) <br/> 
     Descrição: A rede neural aprende automaticamente os recursos que discriminam as medições ruidosas de sinal sem fio, utilizando a informação do estado do canal (CSI) <br/>
-    Aprendizado automático dos recursos <br/>
     Aprendizado: Deep Neural Network (DNN) <br/>
     Algoritmo: Naive Bayes classifier <br/>
     
     f. Detecção e estimação de canal em sistemas de transmissão ópticos <br/>
     
-    Título: [Learning-based network path planning for traffic engineering (https://www.sciencedirect.com/science/article/pii/S0167739X18313244) <br/>
+    Título: [Learning-based network path planning for traffic engineering] (https://www.sciencedirect.com/science/article/pii/S0167739X18313244) <br/>
     Descrição: Inspirado pela análise de sentenças do NLP, é criado um modelo sequence-to-sequence (S2S) para capturar as características intrínsecas da rede, melhorando o encaminhamento de pacotes <br/>
     Aprendizado: Deep Learning <br/>
     Algoritmo: Natural Language Processing (NPL) <br/>
@@ -92,7 +91,7 @@ Utilize o link abaixo como ponto de partida para sua pesquisa: <br/>[https://mlc
     g. Pré-distorção digital de não-linearidades de front-ends de RF <br/>
     
     Título: [An Overview on Application of Machine Learning Techniques in Optical Networks](https://www.researchgate.net/publication/328821936_An_Overview_on_Application_of_Machine_Learning_Techniques_in_Optical_Networks) <br/>  
-   Descrição: Overview de uma aplicação utilizando machine learning para comunicações óticas <br/>
+    Descrição: Overview de uma aplicação utilizando machine learning para comunicações óticas <br/>
     Aprendizado: Supervisionado <br/>
     Algoritmo: Traffic flow classification and Path computatio <br/>  
     
@@ -106,6 +105,6 @@ Utilize o link abaixo como ponto de partida para sua pesquisa: <br/>[https://mlc
     i. Segurança e robustez em redes de comunicação <br/>
     
     Título: [Performance of Statistical and Machine Learning Techniques for Physical Layer Authentication](https://arxiv.org/pdf/2001.06238.pdf) <br/>  
-   Descrição: Avaliação de desempenho de técnicas de autenticação na camada física considerando métodos de algoritmos de critério estatístico e machine learning <br/>
+    Descrição: Avaliação de desempenho de técnicas de autenticação na camada física considerando métodos de algoritmos de critério estatístico e machine learning <br/>
     Aprendizado: Supervisionado <br/>
     Algoritmo: k-nearest neighbors (k-NN) e SVM <br/>
