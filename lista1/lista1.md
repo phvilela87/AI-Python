@@ -105,7 +105,7 @@ sequence-to-sequence (S2S) para capturar as características intrínsecas da red
     
     i. Segurança e robustez em redes de comunicação
     
-    Título: [Performance of Statistical and Machine Learning Techniques for Physical Layer Authentication](https://arxiv.org/pdf/2001.06238.pdf)  
+    Título: [Performance of Statistical and Machine Learning Techniques for Physical Layer Authentication](https://arxiv.org/pdf/2001.06238.pdf) <br/>  
    Descrição: Avaliação de desempenho de técnicas de autenticação na camada física considerando métodos de algoritmos de critério estatístico e machine learning.
     Aprendizado: Supervisionado  
     Algoritmo: k-nearest neighbors (k-NN) e SVM
