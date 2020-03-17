@@ -62,7 +62,7 @@ Utilize o link abaixo como ponto de partida para sua pesquisa: <br/>[https://mlc
     
     c. Projeto e otimização de esquemas de modulação e codificação <br/>
     
-    Título: [A Deep Learning Wireless Transceiver with Fully Learned Modulation and Synchronization](https://arxiv.org/pdf/1905.10468.pdf) <br/>  
+    Título: [A Deep Learning Wireless Transceiver with Fully Learned Modulation and Synchronization](https://arxiv.org/pdf/1905.10468.pdf)
     Descrição: <br/>
     Aprendizado: Deep Neural Network (DNN) <br/>
     Algoritmo: Autoencoders <br/>
@@ -83,7 +83,7 @@ Utilize o link abaixo como ponto de partida para sua pesquisa: <br/>[https://mlc
     
     f. Detecção e estimação de canal em sistemas de transmissão ópticos <br/>
     
-    Título: [Learning-based network path planning for traffic engineering] (https://www.sciencedirect.com/science/article/pii/S0167739X18313244) <br/>
+    Título: [Learning-based network path planning for traffic engineering](https://www.sciencedirect.com/science/article/pii/S0167739X18313244) <br/>
     Descrição: Inspirado pela análise de sentenças do NLP, é criado um modelo sequence-to-sequence (S2S) para capturar as características intrínsecas da rede, melhorando o encaminhamento de pacotes <br/>
     Aprendizado: Deep Learning <br/>
     Algoritmo: Natural Language Processing (NPL) <br/>
