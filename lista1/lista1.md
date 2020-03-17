@@ -69,7 +69,7 @@ Utilize o link abaixo como ponto de partida para sua pesquisa: <br/>[https://mlc
     
     d. Sensoriamento espectral <br/>
     
-    Título: [Deep Learning for Spectrum Sensing](https://arxiv.org/pdf/1909.02730.pdf) <br/>  
+    Título: [Deep Learning for Spectrum Sensing](https://arxiv.org/pdf/1909.02730.pdf) <br/>
     Descrição: Treinamento com base em um dataset com variadas modulações digitais e variação de SNR. A rede cria um conhecimento inerente sobre sistemas modulados, o que aumenta drasticamente o desempenho quando detectando energia <br/>
     Aprendizado: Reforço <br/>
     Algoritmo: Deep Learning - Convolutional Long short-term Deep Neural Network (CLDNN) <br/>  
