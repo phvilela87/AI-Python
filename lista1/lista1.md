@@ -47,35 +47,35 @@ Aprendizado não-supervisionado. Um exemplo seria o uso do Algoritmo de detecç�
     
     a. Alocação de recursos em redes móveis (e.g., LTE, 5G-NR, etc.)
     
-    Título: [Energy Efficiency in Reinforcement Learning for Wireless Sensor Networks](https://arxiv.org/pdf/1812.02538.pdf)
+    Título: [Energy Efficiency in Reinforcement Learning for Wireless Sensor Networks](https://arxiv.org/pdf/1812.02538.pdf) <br/>
     Descrição:  Cruzamento de dados aleatórios da potência do sinal recebido (RSSI) com informações provenientes de diversos sensores, construídos no elemento. Tais sensores desempenham o papel de acão-reusltado-recompensa, além de contribuir na construção de um dataset a ser utilizado.
     Aprendizado: Reforço  
     Algoritmo: Markov Decision Processes (MDP)  
     
     b. Mitigação de colisões em redes sem-fio e móveis
     
-    Título: [Deep Learning-Based Spectrum Prediction Collision Avoidance for Hybrid Wireless Environments  ](https://ieeexplore.ieee.org/document/8684944)
+    Título: [Deep Learning-Based Spectrum Prediction Collision Avoidance for Hybrid Wireless Environments](https://ieeexplore.ieee.org/document/8684944) <br/>
     Descrição: Predição de uso do espectro das redes vizinhas
     Aprendizado: Deep Learning  Supervisionado
     Algoritmo: Convolutional Neural Network (CNN)  
     
     c. Projeto e otimização de esquemas de modulação e codificação
     
-    Título: [A Deep Learning Wireless Transceiver with Fully Learned Modulation and Synchronization](https://arxiv.org/pdf/1905.10468.pdf)  
+    Título: [A Deep Learning Wireless Transceiver with Fully Learned Modulation and Synchronization](https://arxiv.org/pdf/1905.10468.pdf) <br/>  
     Descrição:  
     Aprendizado: Deep Neural Network (DNN)  
     Algoritmo: Autoencoders  
     
     d. Sensoriamento espectral
     
-    Título: [Deep Learning for Spectrum Sensing](https://arxiv.org/pdf/1909.02730.pdf)  
+    Título: [Deep Learning for Spectrum Sensing](https://arxiv.org/pdf/1909.02730.pdf) <br/>  
     Descrição: Treinamento com base em um dataset com variadas modulações digitais e variação de SNR. A rede cria um conhecimento inerente sobre sistemas modulados, o que aumenta drasticamente o desempenho quando detectando energia.
     Aprendizado: Reforço  
     Algoritmo: Deep Learning - Convolutional Long short-term Deep Neural Network (CLDNN)  
     
     e. Posicionamento e localização em ambientes indoor Roteamento de redes
     
-    Título: [Analysis and Visualization of Deep Neural Networks in Device-Free Wi-Fi Indoor Localization](https://arxiv.org/pdf/1904.10154.pdf)  
+    Título: [Analysis and Visualization of Deep Neural Networks in Device-Free Wi-Fi Indoor Localization](https://arxiv.org/pdf/1904.10154.pdf) <br/> 
     Descrição: A rede neural aprende automaticamente os recursos que discriminam as medições ruidosas de sinal sem fio, utilizando a informação do estado do canal (CSI).
     Aprendizado automático dos recursos 
     Aprendizado: Deep Neural Network (DNN)  
@@ -83,15 +83,14 @@ Aprendizado não-supervisionado. Um exemplo seria o uso do Algoritmo de detecç�
     
     f. Detecção e estimação de canal em sistemas de transmissão ópticos
     
-    Título: [Learning-based network path planning for traffic engineering](https://www.sciencedirect.com/science/article/pii/S0167739X18313244)  
-    Descrição: Inspirado pela análise de sentenças do NLP, é criado um modelo
-sequence-to-sequence (S2S) para capturar as características intrínsecas da rede, melhorando o encaminhamento de pacotes.
-    Aprendizado: Deep Learning  
-    Algoritmo: Natural Language Processing (NPL)  
+    Título: [Learning-based network path planning for traffic engineering (https://www.sciencedirect.com/science/article/pii/S0167739X18313244) <br/>
+    Descrição: Inspirado pela análise de sentenças do NLP, é criado um modelo sequence-to-sequence (S2S) para capturar as características intrínsecas da rede, melhorando o encaminhamento de pacotes
+    Aprendizado: Deep Learning 
+    Algoritmo: Natural Language Processing (NPL)
     
     g. Pré-distorção digital de não-linearidades de front-ends de RF
     
-    Título: [An Overview on Application of Machine Learning Techniques in Optical Networks](https://www.researchgate.net/publication/328821936_An_Overview_on_Application_of_Machine_Learning_Techniques_in_Optical_Networks)  
+    Título: [An Overview on Application of Machine Learning Techniques in Optical Networks](https://www.researchgate.net/publication/328821936_An_Overview_on_Application_of_Machine_Learning_Techniques_in_Optical_Networks) <br/>  
    Descrição: Overview de uma aplicação utilizando machine learning para comunicações óticas.
     Aprendizado: Supervisionado  
     Algoritmo: Traffic flow classification and Path computation  
