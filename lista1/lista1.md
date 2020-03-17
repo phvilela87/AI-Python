@@ -62,7 +62,7 @@ Utilize o link abaixo como ponto de partida para sua pesquisa: <br/>[https://mlc
     
     c. Projeto e otimização de esquemas de modulação e codificação <br/>
     
-    Título: [A Deep Learning Wireless Transceiver with Fully Learned Modulation and Synchronization](https://arxiv.org/pdf/1905.10468.pdf)
+    Título: [A Deep Learning Wireless Transceiver with Fully Learned Modulation and Synchronization](https://arxiv.org/pdf/1905.10468.pdf) <br/>
     Descrição: <br/>
     Aprendizado: Deep Neural Network (DNN) <br/>
     Algoritmo: Autoencoders <br/>
