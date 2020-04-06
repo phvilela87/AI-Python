@@ -2,7 +2,7 @@
 
  ## Lista de Exercícios #1
 
-1.  Defina com suas próprias palavras:
+1. Defina com suas próprias palavras:
     
     a. Inteligência  
     É a faculdade de conhecer, compreender e aprender.
@@ -84,8 +84,7 @@ Aprendizado não-supervisionado. Um exemplo seria o uso do Algoritmo de detecç�
     f. Detecção e estimação de canal em sistemas de transmissão ópticos
     
     Título: [Learning-based network path planning for traffic engineering](https://www.sciencedirect.com/science/article/pii/S0167739X18313244)  
-    Descrição: Inspirado pela análise de sentenças do NLP, é criado um modelo
-sequence-to-sequence (S2S) para capturar as características intrínsecas da rede, melhorando o encaminhamento de pacotes.
+    Descrição: Inspirado pela análise de sentenças do NLP, é criado um modelo sequence-to-sequence (S2S) para capturar as características intrínsecas da rede, melhorando o encaminhamento de pacotes.
     Aprendizado: Deep Learning  
     Algoritmo: Natural Language Processing (NPL)  
     
@@ -109,3 +108,4 @@ sequence-to-sequence (S2S) para capturar as características intrínsecas da red
    Descrição: Avaliação de desempenho de técnicas de autenticação na camada física considerando métodos de algoritmos de critério estatístico e machine learning.
     Aprendizado: Supervisionado  
     Algoritmo: k-nearest neighbors (k-NN) e SVM
+
