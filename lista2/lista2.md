@@ -66,7 +66,7 @@ d. h = a0 + a1*x + a2*x^2 + a3*x^3 + a4*x^4
 
 Para cada uma das funções hipótese acima faça o seguinte:
 
-a) Encontre os valores ótimos dos parâmetros através do método de forma fechada, i.e., equação normal, ou também conhecida como método dos mínimos quadrados  
+a. Encontre os valores ótimos dos parâmetros através do método de forma fechada, i.e., equação normal, ou também conhecida como método dos mínimos quadrados  
 
 b. Encontre as equações de atualização dos parâmetros assumindo o erro quadrático médio como função de erro  
 
@@ -78,7 +78,8 @@ e. Plote um gráfico com do número de iterações versus o erro
 
 Em seguida responda às seguintes perguntas:
 
-A. Qual das funções hipótese acima aproxima melhor a função alvo (target), ou seja, qual produz o menor erro ao final do treinamento?   
+A. Qual das funções hipótese acima aproxima melhor a função alvo (target), ou seja, qual produz o menor erro ao final do treinamento? 
+  
 B. Dado que você encontrou os parâmetros que otimizam cada uma das funções hipótese acima (ou seja, você agora tem um modelo treinado que pode predizer o resultado para novos exemplos), use os dados contidos no arquivo [predicting.csv](https://drive.google.com/file/d/1muKMqT56DFF10HPSXfSOltU1X5R7vY0H/view) e calcule o erro quadrático médio para cada um dos modelos (i.e., função hipótese). Qual função hipótese resulta no menor erro quadrático médio? O que você consegue concluir a respeito deste resultado?
 
 8- Neste exercício você irá aplicar escalonamento de feature aos dados de treinamento. Dada a seguinte função objetivo
