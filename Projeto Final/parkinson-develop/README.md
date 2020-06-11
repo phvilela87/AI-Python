@@ -1,1 +1,0 @@
-## Parkinson condition estimation. ##
