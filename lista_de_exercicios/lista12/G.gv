@@ -1,0 +1,33 @@
+digraph G {
+	graph [color=white fillcolor=white fontcolor="#414141" style=rounded]
+	node [color="#aaaaaa" fillcolor=white fontcolor="#414141" penwidth=2 style=filled]
+	edge [arrowsize=1.2 color="#aaaaaa" fontcolor="#414141" penwidth=2.5]
+	X [label=X]
+	y [label=y]
+	hidden1 [label=hidden1]
+	dnn [label=dnn]
+	hidden2 [label=hidden2]
+	outputs [label=outputs]
+	loss [label=loss]
+	train [label=train]
+	eval [label=eval]
+	init [label=init]
+	save [label=save]
+	hidden2 -> dnn
+	hidden1 -> dnn
+	X -> dnn [label="?×784"]
+	outputs -> dnn
+	y -> loss [label=""]
+	dnn -> loss
+	hidden2 -> train
+	hidden1 -> train
+	X -> train [label="?×784"]
+	loss -> train
+	outputs -> train
+	dnn -> train
+	y -> eval [label=""]
+	dnn -> eval
+	hidden2 -> save
+	hidden1 -> save
+	outputs -> save
+}
